@@ -18,7 +18,7 @@ jobs:
         with:
           github_user_name: 95-yn
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00f0ff&color_dots=#161b22,#ff006e,#8338ec,#00f0ff,#39ff14
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00f0ff&color_dots=#161b22,#00f0ff44,#00f0ff88,#00f0ffcc,#00f0ff
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
