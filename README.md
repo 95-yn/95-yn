@@ -7,6 +7,8 @@
 
 ![snake](https://raw.githubusercontent.com/95-yn/95-yn/output/github-contribution-grid-snake-dark.svg)
 
+<sub>now · building <code>tuttikit</code> · open to chat</sub>
+
 <sub><code>tuttikit</code> · <a href="https://github.com/95-yn/tuttikit">github.com/95-yn/tuttikit</a></sub>
 
 </div>
