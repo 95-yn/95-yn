@@ -25,10 +25,9 @@
   <!-- Background panel -->
   <rect x="0" y="0" width="760" height="280" rx="8" fill="#161b22"/>
 
-  <!-- Glowing border -->
+  <!-- Border (flat, no bloom) -->
   <rect x="1" y="1" width="758" height="278" rx="8"
-        fill="none" stroke="#58a6ff" stroke-opacity="0.5" stroke-width="1"
-        filter="url(#glow)"/>
+        fill="none" stroke="#58a6ff" stroke-opacity="0.28" stroke-width="1"/>
 
   <!-- Scanline overlay (above bg, below text) -->
   <rect x="0" y="0" width="760" height="280" rx="8" fill="url(#scan)"/>
@@ -49,7 +48,7 @@
 
     <!-- Brand line: 95-yn // agents builder -->
     <text x="32" y="138" fill="#6e7681">│</text>
-    <text x="80" y="146" fill="#58a6ff" font-size="28" font-weight="700" filter="url(#textGlow)">95-yn</text>
+    <text x="80" y="146" fill="#58a6ff" font-size="28" font-weight="700">95-yn</text>
     <text x="190" y="146" fill="#6e7681" font-size="14">// agents builder</text>
 
     <!-- Spacer -->
